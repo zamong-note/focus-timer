@@ -11,7 +11,7 @@ export default function App() {
         <header className="topbar">
           <div className="brand">
             <span className="dot" />
-            Focus
+            Focus by Claude..........ㅠ
           </div>
           <nav className="nav">
             <NavLink to="/" end>
